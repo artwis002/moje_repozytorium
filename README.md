@@ -1,3 +1,3 @@
-# moje_repozytorium
+#moje_repozytorium
 #zmiana dla testu
-# zad2.g zmiana na githubie
+#zad2.g zmiana na githubie
